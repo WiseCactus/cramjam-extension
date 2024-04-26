@@ -24,6 +24,8 @@ This is how the display will appear after your quiz has been made:
 ## 3. Earn As You Learn: 
 Accumulate coins with every quiz you complete; the higher your accuracy, the greater your reward!
 
+Additionally, you can also collect cool badges as you achieve various milestones and demonstrate mastery in different subjects. These badges not only signify your accomplishments but also make your learning journey more fun and engaging.
+
 ## 4. Retest with Paraphrasing: 
 Missed some answers? The retest button lets you try again, with paraphrased questions to ensure you're truly mastering the material.
 
