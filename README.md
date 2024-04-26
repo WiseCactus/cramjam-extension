@@ -1,4 +1,4 @@
-# cramjam-extension
+
 # Welcome to the CramJam Browser Quiz Extension!
  
 # Getting Started
