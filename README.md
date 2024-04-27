@@ -34,7 +34,12 @@ Missed some answers? The retest button lets you try again, with paraphrased ques
 
 
 # Now that you're familiar with the essentials of CramJam, here are the cool features you'll find in CramJam that you can use to supercharge your learning:
+
 ## Feature 1: Browser Quiz Creation
+
+https://github.com/WiseCactus/cramjam-extension/assets/76268134/84057ff0-9198-4351-ad31-46286f33e530
+
+
 Highlight any text on a webpage, right-click, and select "Generate Browser Quiz" to create an interactive quiz. After completion, you'll see your quiz area marked and your score displayed. This is a beta feature, and all quizzes for this feature will be 7 questions long.
 Don't fret if you don't ace it the first time; you can always retry by clicking the button shown.
 
