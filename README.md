@@ -1,6 +1,7 @@
 
 # Welcome to the CramJam Browser Quiz Extension!
- 
+
+ https://github.com/WiseCactus/cramjam-extension/assets/76268134/84057ff0-9198-4351-ad31-46286f33e530 
 # Getting Started
 Welcome to the CramJam extension! This powerful tool transforms your browsing experience by adding a fun, interactive layer of learning to the content you love. Whether it's website text, YouTube videos, or structured study plans, CramJam makes education engaging and dynamic.
 
@@ -37,7 +38,7 @@ Missed some answers? The retest button lets you try again, with paraphrased ques
 
 ## Feature 1: Browser Quiz Creation
 
-https://github.com/WiseCactus/cramjam-extension/assets/76268134/84057ff0-9198-4351-ad31-46286f33e530
+
 
 
 Highlight any text on a webpage, right-click, and select "Generate Browser Quiz" to create an interactive quiz. After completion, you'll see your quiz area marked and your score displayed. This is a beta feature, and all quizzes for this feature will be 7 questions long.
