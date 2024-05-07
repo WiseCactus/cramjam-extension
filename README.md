@@ -3,7 +3,7 @@
 
 ## Note: You will be able to find this link when you click the How to Use button at the bottom right.
 
-<img src="https://github.com/WiseCactus/cramjam-extension/assets/76268134/79be44d1-9d00-4349-aed2-c664cd4d4372" width="100" height="100">
+<img src="https://github.com/WiseCactus/cramjam-extension/assets/76268134/79be44d1-9d00-4349-aed2-c664cd4d4372" width="300" height="500">
 
 
  https://github.com/WiseCactus/cramjam-extension/assets/76268134/84057ff0-9198-4351-ad31-46286f33e530 
