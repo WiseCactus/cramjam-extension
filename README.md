@@ -3,7 +3,8 @@
 
 ## Note: You will be able to find this link when you click the How to Use button at the bottom right.
 
-( put image here). 
+![Untitled design (1)](https://github.com/WiseCactus/cramjam-extension/assets/76268134/79be44d1-9d00-4349-aed2-c664cd4d4372)
+
  https://github.com/WiseCactus/cramjam-extension/assets/76268134/84057ff0-9198-4351-ad31-46286f33e530 
 # Getting Started
 Welcome to the CramJam extension! This powerful tool transforms your browsing experience by adding a fun, interactive layer of learning to the content you love. Whether it's website text, YouTube videos, or structured study plans, CramJam makes education engaging and dynamic.
