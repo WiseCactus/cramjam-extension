@@ -44,12 +44,12 @@ Missed some answers? The retest button lets you try again, with paraphrased ques
 ## Feature 1: Browser Quiz Creation
 
 
+![326138420-84057ff0-9198-4351-ad31-46286f33e530 (online-video-cutter com) (1)](https://github.com/WiseCactus/cramjam-extension/assets/76268134/3d84b1e8-0a2d-44b0-a47d-b57d391a8f2a)
 
 
 Highlight any text on a webpage, right-click, and select "Generate Browser Quiz" to create an interactive quiz. After completion, you'll see your quiz area marked and your score displayed. This is a beta feature, and all quizzes for this feature will be 7 questions long.
 Don't fret if you don't ace it the first time; you can always retry by clicking the button shown.
 
-<img width="802" alt="Screenshot 2024-03-27 at 9 11 28 PM" src="https://github.com/WiseCactus/cramjamExtension/assets/76268134/02fae638-32f0-4345-9b68-c59dc6563c33">
 
 
 ** Sidenote - Use dropbox for pdfs and you can use our browser externsion**
