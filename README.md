@@ -12,7 +12,8 @@ Welcome to the CramJam extension! This powerful tool transforms your browsing ex
 - **Login Required:** You must be logged in to use the features. If you do not have an account, please register. After you sign up, each account will be in the free tier, which allows up to 3 free generations a week. To increase the limit of usage to unlimited, please start a subscription by clicking the upgrade button.
 - **Quiz Outcome:** Each interaction leads to a quiz for active learning. This is how the display will appear after your quiz has been made:
   
-  <img width="345" alt="Quiz Display" src="https://github.com/WiseCactus/cramjam-extension/assets/76268134/dd68b4f8-b3fe-41bf-a798-4fe6e0e57813">
+![Uploading 326138420-84057ff0-9198-4351-ad31-46286f33e530 (online-video-cutter.com) (2).gif…]()
+
 
 - **Earn As You Learn:** Accumulate coins with every quiz you complete; the higher your accuracy, the greater your reward! Additionally, you can also collect cool badges as you achieve various milestones and demonstrate mastery in different subjects.
     - [GIF: Collecting coins and earning badges after quiz completion](Description: A GIF showing a user earning coins and badges, enhancing the gamification aspect of the learning experience.)
