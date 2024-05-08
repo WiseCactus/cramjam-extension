@@ -39,4 +39,6 @@ While watching any YouTube video, trigger a custom quiz based on the video's con
 Set your study duration and let CramJam find YouTube lessons for you. It outlines a plan with hyperlinks to each lesson. Once you score 80% or higher on a quiz, the lesson link is crossed out, marking your progress.
     - [GIF: Setting up a YouTube study plan and marking progress](Description: A GIF showing the user setting up a study duration, CramJam generating a plan, and the user marking lessons as complete after successful quizzes.)
 
+## Common Questions
+
 Happy quizzing!
