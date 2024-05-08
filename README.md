@@ -23,14 +23,16 @@ Welcome to the CramJam extension! This powerful tool transforms your browsing ex
 
 - **Quiz Outcome:** Each interaction leads to a quiz for active learning. This is how the display will appear after your quiz has been made:
   
-![326138420-84057ff0-9198-4351-ad31-46286f33e530 (online-video-cutter com) (2)](https://github.com/WiseCactus/cramjam-extension/assets/76268134/1f99dabb-3dba-4dfc-bad1-c7eec1368943)
+![coins](https://github.com/WiseCactus/cramjam-extension/assets/76268134/7a3c7493-1e34-498e-97fa-205d914a517a)
 
 - **Earn As You Learn:** Accumulate coins with every quiz you complete; the higher your accuracy, the greater your reward! Additionally, you can also collect cool badges as you achieve various milestones and demonstrate mastery in different subjects.
-    - [GIF: Collecting coins and earning badges after quiz completion](Description: A GIF showing a user earning coins and badges, enhancing the gamification aspect of the learning experience.)
+
+![coins (1)](https://github.com/WiseCactus/cramjam-extension/assets/76268134/b4f066da-2e7d-41e2-86a3-bd676ca70e88)
+
 
 - **Retest with Paraphrasing:** Missed some answers? The retest button lets you try again, with paraphrased questions to ensure you're truly mastering the material.
-  
-  <img width="329" alt="Retest Feature" src="https://github.com/WiseCactus/cramjam-extension/assets/76268134/a719abf3-c4fc-4c5a-9d8d-b1cd84783b75">
+  ![Screen Recording 2024-05-08 at 4 24 53 PM](https://github.com/WiseCactus/cramjam-extension/assets/76268134/b45dfa06-cf89-44e6-9592-52fe7201ab38)
+
 
 ## Features of CramJam
 
