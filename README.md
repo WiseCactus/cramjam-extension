@@ -8,11 +8,13 @@
      b) About the quiz
      c) Collect coins and badges
      d) Generating retests
+     
   3. [Features of Cramjam](#features-of-cramjam)
      
      a) Browser text quiz generator
      b) Youtube video quiz generator
      c) Text quiz generator
+     
   5. [Common Questions](#common-questions)
     
 ### Note:
