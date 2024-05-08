@@ -2,7 +2,7 @@
 
 
 ## Table of Contents
-- [Section 1](# Features of CramJam) 
+- [Section 1](#section-1-introduction-to-the-project)
 ### Note:
 You will be able to find this link when you click the 'How to Use' button at the bottom right.
 
@@ -18,6 +18,7 @@ Welcome to the CramJam extension! This powerful tool transforms your browsing ex
 ![326138420-84057ff0-9198-4351-ad31-46286f33e530 (online-video-cutter com) (2)](https://github.com/WiseCactus/cramjam-extension/assets/76268134/1f99dabb-3dba-4dfc-bad1-c7eec1368943)
 
 
+## Section 1: Introduction to the Project
 
 - **Earn As You Learn:** Accumulate coins with every quiz you complete; the higher your accuracy, the greater your reward! Additionally, you can also collect cool badges as you achieve various milestones and demonstrate mastery in different subjects.
     - [GIF: Collecting coins and earning badges after quiz completion](Description: A GIF showing a user earning coins and badges, enhancing the gamification aspect of the learning experience.)
