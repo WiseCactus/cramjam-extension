@@ -2,13 +2,13 @@
 
 
 ## Table of Contents
-   1. [Getting Started](#getting-started)
+   1. #[Getting Started](#getting-started)
      
      a) Logging in
      b) About the quiz
      c) Collect coins and badges
      d) Generating retests
-  3. Features of Cramjam(#features-of-cramjam)
+  3. #[Features of Cramjam](#features-of-cramjam)
      a) Browser text quiz generator
      b) Youtube video quiz generator
      c) Text quiz generator
