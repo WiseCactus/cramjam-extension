@@ -18,7 +18,8 @@ Welcome to the CramJam extension! This powerful tool transforms your browsing ex
 ### Key Points to Remember:
 - **Login Required:** You must be logged in to use the features. If you do not have an account, please register. After you sign up, each account will be in the free tier, which allows you to create 10 free generations. To increase the limit of usage to unlimited, please start a subscription by clicking the upgrade button.
 
-![login](https://github.com/WiseCactus/cramjam-extension/assets/76268134/d884bac5-767c-4c7b-adb7-9766490b3ae5)
+![login](https://github.com/WiseCactus/cramjam-extension/assets/76268134/b3b23555-8a8b-416b-8b46-3c585a3ccee3)
+
 
 - **Quiz Outcome:** Each interaction leads to a quiz for active learning. This is how the display will appear after your quiz has been made:
   
