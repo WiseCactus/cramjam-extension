@@ -2,7 +2,7 @@
 
 
 ## Table of Contents
-   Getting Started(#getting-started)
+   1. [Getting Started](#getting-started)
      
      a) Logging in
      b) About the quiz
