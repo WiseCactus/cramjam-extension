@@ -2,7 +2,17 @@
 
 
 ## Table of Contents
-- [Section 1](#getting-started)
+  1. Getting Started(#getting-started)
+     a) Logging in
+     b) About the quiz
+     c) Collect coins and badges
+     d) Generating retests
+  2. Features of Cramjam(#features-of-cramjam)
+     a) Browser text quiz generator
+     b) Youtube video quiz generator
+     c) Text quiz generator
+  3. Common Questions
+    
 ### Note:
 You will be able to find this link when you click the 'How to Use' button at the bottom right.
 
@@ -12,7 +22,7 @@ You will be able to find this link when you click the 'How to Use' button at the
 Welcome to the CramJam extension! This powerful tool transforms your browsing experience by adding a fun, interactive layer of learning to the content you love.
 
 ### Key Points to Remember:
-- **Login Required:** You must be logged in to use the features. If you do not have an account, please register. After you sign up, each account will be in the free tier, which allows up to 3 free generations a week. To increase the limit of usage to unlimited, please start a subscription by clicking the upgrade button.
+- **Login Required:** You must be logged in to use the features. If you do not have an account, please register. After you sign up, each account will be in the free tier, which allows you to create 10 free generations. To increase the limit of usage to unlimited, please start a subscription by clicking the upgrade button.
 - **Quiz Outcome:** Each interaction leads to a quiz for active learning. This is how the display will appear after your quiz has been made:
   
 ![326138420-84057ff0-9198-4351-ad31-46286f33e530 (online-video-cutter com) (2)](https://github.com/WiseCactus/cramjam-extension/assets/76268134/1f99dabb-3dba-4dfc-bad1-c7eec1368943)
@@ -35,7 +45,7 @@ While watching any YouTube video, trigger a custom quiz based on the video's con
 
 <img width="355" alt="YouTube Quiz" src="https://github.com/WiseCactus/cramjam-extension/assets/76268134/4cd17f7f-584f-4b0b-879f-99821b046649">
 
-### Feature 3: YouTube Study Plan Generator
+### Feature 3: Text Quiz Creation
 Set your study duration and let CramJam find YouTube lessons for you. It outlines a plan with hyperlinks to each lesson. Once you score 80% or higher on a quiz, the lesson link is crossed out, marking your progress.
     - [GIF: Setting up a YouTube study plan and marking progress](Description: A GIF showing the user setting up a study duration, CramJam generating a plan, and the user marking lessons as complete after successful quizzes.)
 
