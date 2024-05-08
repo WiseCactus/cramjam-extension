@@ -3,9 +3,9 @@
 
 ## Table of Contents
 
-   1. [Getting Started](#getting-started)
-   2. [Features of Cramjam](#features-of-cramjam)
-   3. [Common Questions](#common-questions)
+   ### 1. [Getting Started](#getting-started)
+   ### 2. [Features of Cramjam](#features-of-cramjam)
+   ### 3. [Common Questions](#common-questions)
     
 ### Note:
 You will be able to find this link when you click the 'How to Use' button at the bottom right.
