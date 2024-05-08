@@ -36,16 +36,16 @@ Welcome to the CramJam extension! This powerful tool transforms your browsing ex
 
 ## Features of CramJam
 
-### Feature 1: Browser Quiz Creation
+### 1.  Browser Quiz Creation
 Highlight any text on a webpage, right-click, and select "Generate Browser Quiz" to create an interactive quiz. After completion, you'll see your quiz area marked and your score displayed. This is a beta feature, and all quizzes for this feature will be 7 questions long.
     - [GIF: Process of creating a quiz from browser text](Description: A GIF demonstrating how to highlight text, right-click, and choose "Generate Browser Quiz", showcasing the quiz creation process.)
 
-### Feature 2: YouTube Video Quizzes
+### 2. YouTube Video Quizzes
 While watching any YouTube video, trigger a custom quiz based on the video's content. Simply select 'Create a quiz' from the dropdown menu, choose optional settings like quiz length and focus, and voilà! CramJam crafts your quiz.
 
 <img width="355" alt="YouTube Quiz" src="https://github.com/WiseCactus/cramjam-extension/assets/76268134/4cd17f7f-584f-4b0b-879f-99821b046649">
 
-### Feature 3: Text Quiz Creation
+### 3. Text Quiz Creation
 Set your study duration and let CramJam find YouTube lessons for you. It outlines a plan with hyperlinks to each lesson. Once you score 80% or higher on a quiz, the lesson link is crossed out, marking your progress.
     - [GIF: Setting up a YouTube study plan and marking progress](Description: A GIF showing the user setting up a study duration, CramJam generating a plan, and the user marking lessons as complete after successful quizzes.)
 
