@@ -1,5 +1,8 @@
 ## Welcome to the CramJam Browser Quiz Extension!
 
+
+## Table of Contents
+- [Section 1](# Features of CramJam) 
 ### Note:
 You will be able to find this link when you click the 'How to Use' button at the bottom right.
 
