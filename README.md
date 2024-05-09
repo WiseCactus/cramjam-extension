@@ -50,7 +50,7 @@ While watching any YouTube video, trigger a custom quiz based on the video's con
 
 And voilà! It's as simple as that.
 
-![Uploading youtube quiz.gif…]()
+![youtube quiz](https://github.com/WiseCactus/cramjam-extension/assets/76268134/c97d0b51-fc2a-441a-b7f0-9d9adaa55c54)
 
 
 ### 3. Text Quiz Creation
