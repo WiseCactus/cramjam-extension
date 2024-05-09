@@ -50,7 +50,7 @@ While watching any YouTube video, trigger a custom quiz based on the video's con
 
 And voilà! It's as simple as that.
 
-![Uploading Screen Recording 2024-05-08 at 8.33.53 PM.gif…]()
+![Screen Recording 2024-05-08 at 8 33 53 PM](https://github.com/WiseCactus/cramjam-extension/assets/76268134/30f3d27b-f933-491e-abae-5798089d4e7e)
 
 
 ### 3. Text Quiz Creation
