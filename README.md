@@ -43,9 +43,15 @@ Highlight any text on a webpage, right-click, and select "Generate Browser Quiz"
 
 
 ### 2. YouTube Video Quizzes
-While watching any YouTube video, trigger a custom quiz based on the video's content. Simply select 'Create a quiz' from the dropdown menu, choose optional settings like quiz length and focus, and voilà! CramJam crafts your quiz.
+While watching any YouTube video, trigger a custom quiz based on the video's content. Simply select 'Create a quiz' from the dropdown menu, choose optional settings like quiz length and focus.
 
-<img width="355" alt="YouTube Quiz" src="https://github.com/WiseCactus/cramjam-extension/assets/76268134/4cd17f7f-584f-4b0b-879f-99821b046649">
+![Screen Recording 2024-05-08 at 8 35 10 PM](https://github.com/WiseCactus/cramjam-extension/assets/76268134/36954fed-50ff-47b7-8729-f2f2fc28c2ea)
+
+
+And voilà! It's as simple as that.
+
+![Uploading Screen Recording 2024-05-08 at 8.33.53 PM.gif…]()
+
 
 ### 3. Text Quiz Creation
 Set your study duration and let CramJam find YouTube lessons for you. It outlines a plan with hyperlinks to each lesson. Once you score 80% or higher on a quiz, the lesson link is crossed out, marking your progress.
