@@ -21,7 +21,7 @@
 ### Note:
 For detailed instructions on using the extension, click the 'How to Use' button located at the bottom right of your screen.
 
-<img src="https://github.com/WiseCactus/cramjam-extension/assets/76268134/79be44d1-9d00-4349-aed2-c664cd4d4372" width="450" height="650">
+<img src="https://github.com/WiseCactus/cramjam-extension/assets/76268134/79be44d1-9d00-4349-aed2-c664cd4d4372" width="200" height="350">
 
 ## Getting Started
 Welcome to the CramJam extension! This tool enriches your browsing experience by integrating interactive and educational quizzes into the content you enjoy.
@@ -29,7 +29,7 @@ Welcome to the CramJam extension! This tool enriches your browsing experience by
 ### Important Points to Note:
 - **Login Required:** Logging in is essential to access the features. New users can register for a free tier allowing up to 10 creations. Increase your limit by subscribing.
 
-- <img src="https://github.com/WiseCactus/cramjam-extension/assets/76268134/b3b23555-8a8b-416b-8b46-3c585a3ccee3" width="400" height="200" alt="Login Image">
+- <img src="https://github.com/WiseCactus/cramjam-extension/assets/76268134/b3b23555-8a8b-416b-8b46-3c585a3ccee3" width="600" height="450" alt="Login Image">
 
 
 - **Quiz Interaction:** Every interaction prompts a quiz to enhance active learning. Here's what to expect after completing a quiz:
