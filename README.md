@@ -34,31 +34,31 @@ Welcome to the CramJam extension! This tool enriches your browsing experience by
 
 - **Quiz Interaction:** Every interaction prompts a quiz to enhance active learning. Here's what to expect after completing a quiz:
 
-  ![Quiz Outcome](https://github.com/WiseCactus/cramjam-extension/assets/76268134/7a3c7493-1e34-498e-97fa-205d914a517a)
+  <img src="https://github.com/WiseCactus/cramjam-extension/assets/76268134/7a3c7493-1e34-498e-97fa-205d914a517a"  width="750" height="450">
 
 - **Earn As You Learn:** Earn coins with each quiz based on your accuracy. Achieve various milestones and collect badges to demonstrate mastery in subjects.
 
-  ![Earn Coins](https://github.com/WiseCactus/cramjam-extension/assets/76268134/b4f066da-2e7d-41e2-86a3-bd676ca70e88)
+  <img src="https://github.com/WiseCactus/cramjam-extension/assets/76268134/b4f066da-2e7d-41e2-86a3-bd676ca70e88" width="750" height="450">
 
 - **Retest with Paraphrasing:** Didn't get it the first time? The retest option with paraphrased questions helps ensure you've truly mastered the material.
 
-  ![Retest Option](https://github.com/WiseCactus/cramjam-extension/assets/76268134/b45dfa06-cf89-44e6-9592-52fe7201ab38)
+  <img src="https://github.com/WiseCactus/cramjam-extension/assets/76268134/b45dfa06-cf89-44e6-9592-52fe7201ab38" width="750" height="450">
 
 ## Features of CramJam
 
 ### 1. Browser Quiz Creation
 Highlight text on any webpage, right-click, and select "Generate Browser Quiz". Post-quiz, your score is displayed within the marked quiz area. This beta feature currently supports 7-question quizzes.
 
-![Browser Quiz Creation](https://github.com/WiseCactus/cramjam-extension/assets/76268134/a57daea3-af30-4530-a920-645238bc52a4)
+<img src="https://github.com/WiseCactus/cramjam-extension/assets/76268134/a57daea3-af30-4530-a920-645238bc52a4" width="750" height="450">
 
 ### 2. YouTube Video Quizzes
 Easily create a custom quiz from any YouTube video's content by selecting 'Create a quiz' from the dropdown menu. Adjust settings like quiz length and focus to suit your needs.
 
-![YouTube Quiz Setup](https://github.com/WiseCactus/cramjam-extension/assets/76268134/1eb5dd42-b395-41aa-9120-864384fcc692)
+<img src="https://github.com/WiseCactus/cramjam-extension/assets/76268134/1eb5dd42-b395-41aa-9120-864384fcc692" width="750" height="450">
 
 And just like that, you're ready to learn!
 
-![YouTube Quiz Example](https://github.com/WiseCactus/cramjam-extension/assets/76268134/c97d0b51-fc2a-441a-b7f0-9d9adaa55c54)
+<img src="https://github.com/WiseCactus/cramjam-extension/assets/76268134/c97d0b51-fc2a-441a-b7f0-9d9adaa55c54" width="750" height="450">
 
 ### 3. Text Quiz Creation
 Customize your learning by setting a study duration. CramJam will then generate a tailored study plan with YouTube lessons. Progress is noted by crossing out lessons once you score 80% or higher on related quizzes.
