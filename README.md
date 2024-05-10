@@ -32,15 +32,15 @@ Welcome to the CramJam extension! This tool uses AI to enrich your browsing expe
 - <img src="https://github.com/WiseCactus/cramjam-extension/assets/76268134/b3b23555-8a8b-416b-8b46-3c585a3ccee3" width="750" height="450" alt="Login Image">
 
 
-- **Quiz Interaction:** Every interaction prompts a quiz to enhance active learning. Here's what to expect after completing a quiz:
+- 📝 **Quiz Interaction:**  Seamlessly generate quizzes from web text or YouTube content to test your knowledge and discover learning gaps.
 
   <img src="https://github.com/WiseCactus/cramjam-extension/assets/76268134/7a3c7493-1e34-498e-97fa-205d914a517a"  width="750" height="450">
 
-- **Earn As You Learn:** Earn coins with each quiz based on your accuracy. Achieve various milestones and collect badges to demonstrate mastery in subjects.
+- 💰**Earn As You Learn:** Earn coins with each quiz based on your accuracy. Achieve various milestones and collect badges to demonstrate mastery in subjects.
 
   <img src="https://github.com/WiseCactus/cramjam-extension/assets/76268134/b4f066da-2e7d-41e2-86a3-bd676ca70e88" width="750" height="450">
 
-- **Retest with Paraphrasing:** Didn't get it the first time? The retest option with paraphrased questions helps ensure you've truly mastered the material.
+- 🔄**Retest with Paraphrasing:** Didn't get it the first time? The retest option with paraphrased questions helps ensure you've truly mastered the material.
 
   <img src="https://github.com/WiseCactus/cramjam-extension/assets/76268134/b45dfa06-cf89-44e6-9592-52fe7201ab38" width="750" height="450">
 
@@ -104,5 +104,3 @@ If Cramjam does not detect your text and the yellow pop-up does not display on y
 **A:** Absolutely! We value user feedback and encourage you to submit any suggestions for new features or improvements. Please send your ideas in the feedback button.
 
 Enjoy exploring and learning with CramJam. Happy quizzing!
-
-Enjoy your quizzing journey with CramJam!
