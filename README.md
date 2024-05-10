@@ -19,7 +19,7 @@
 
 
 ### Note:
-For detailed instructions on using the extension, click the 'How to Use' button located at the bottom right of your screen.
+To come back to this page whenever you have questions about the extension, click the 'How to Use' button located at the bottom right of your screen.
 
 <img src="https://github.com/WiseCactus/cramjam-extension/assets/76268134/79be44d1-9d00-4349-aed2-c664cd4d4372" width="300" height="550">
 
