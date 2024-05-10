@@ -21,7 +21,7 @@
 ### Note:
 For detailed instructions on using the extension, click the 'How to Use' button located at the bottom right of your screen.
 
-<img src="https://github.com/WiseCactus/cramjam-extension/assets/76268134/79be44d1-9d00-4349-aed2-c664cd4d4372" width="200" height="350">
+<img src="https://github.com/WiseCactus/cramjam-extension/assets/76268134/79be44d1-9d00-4349-aed2-c664cd4d4372" width="400" height="550">
 
 ## Getting Started
 Welcome to the CramJam extension! This tool uses AI to enrich your browsing experience by integrating interactive and educational quizzes into the content you enjoy.🪄
