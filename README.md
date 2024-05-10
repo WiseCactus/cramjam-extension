@@ -1,4 +1,4 @@
-# Welcome to the CramJam Browser Quiz Extension!
+# Welcome to the CramJam Browser Quiz Extension!🥳🎉
 
 ## Table of Contents
 1. [Getting Started](#getting-started)
@@ -24,10 +24,10 @@ For detailed instructions on using the extension, click the 'How to Use' button 
 <img src="https://github.com/WiseCactus/cramjam-extension/assets/76268134/79be44d1-9d00-4349-aed2-c664cd4d4372" width="200" height="350">
 
 ## Getting Started
-Welcome to the CramJam extension! This tool enriches your browsing experience by integrating interactive and educational quizzes into the content you enjoy.
+Welcome to the CramJam extension! This tool uses AI to enrich your browsing experience by integrating interactive and educational quizzes into the content you enjoy.🪄
 
 ### Important Points to Note:
-- **Login Required:** Logging in is essential to access the features. New users can register for a free tier allowing up to 10 creations. Increase your limit by subscribing.
+- **Login Required:** Logging in is essential to access the features. New users can register for a free tier allowing up to 12 creations. Increase your limit by subscribing.
 
 - <img src="https://github.com/WiseCactus/cramjam-extension/assets/76268134/b3b23555-8a8b-416b-8b46-3c585a3ccee3" width="750" height="450" alt="Login Image">
 
@@ -61,7 +61,15 @@ And just like that, you're ready to learn!
 <img src="https://github.com/WiseCactus/cramjam-extension/assets/76268134/c97d0b51-fc2a-441a-b7f0-9d9adaa55c54" width="750" height="450">
 
 ### 3. Text Quiz Creation
-Customize your learning by setting a study duration. CramJam will then generate a tailored study plan with YouTube lessons. Progress is noted by crossing out lessons once you score 80% or higher on related quizzes.
+
+Occasionally, some websites employ techniques that prevent our extension from detecting text directly from the page. If you encounter a yellow notification bar at the bottom of your browser while using our site, it indicates that you are on one of these incompatible websites.
+
+<img width="823" alt="Screenshot 2024-05-09 at 6 59 47 PM" src="https://github.com/WiseCactus/cramjam-extension/assets/76268134/5538ad61-8921-4784-8fd8-a093ac1d2350">
+
+Even if that is the case , don't worry -- we've still got you covered!  Just access the 'Create A Quiz From Text' feature located in the sidebar. Simply copy the text you want to use into the provided text box, and hit 'Create'. You'll have your quiz ready in no time!
+
+<img src="https://github.com/WiseCactus/cramjam-extension/assets/76268134/56092f5b-e05d-40d6-8ecc-ea6526d24161" width="750" height="450">
+
 
 ### GIF: Setting up a YouTube Study Plan and Marking Progress
 A GIF demonstrating how to set up a study duration, with CramJam generating a plan and the user marking lessons as completed after successful quizzes.
@@ -69,14 +77,17 @@ A GIF demonstrating how to set up a study duration, with CramJam generating a pl
 ## Common Questions
 
 ### Q1: What does the free tier include?
-**A:** The free tier allows you to create up to 10 quizzes per week. This is a great way to try out the features before deciding whether you might benefit from unlimited access with a subscription.
+**A:** The free tier allows you to create up to 12 quizzes. This is a great way to try out the features before deciding whether you might benefit from unlimited access with a subscription.
 
 ### Q2: How can I upgrade to an unlimited subscription?
 **A:** To upgrade, log into your account, navigate to the settings page, and click on the 'Upgrade' button. Follow the instructions to enter your payment information and complete the subscription process.
 
 ### Q3: Can I use CramJam on any website?
-**A:** CramJam works on most text-based web pages. However, there are exceptions such as Google Docs and PDFs, which we cannot extract the selected text from. If Cramjam does not detect your text , please report this bug on our feedback form.
+**A:** CramJam works on most text-based web pages. However, there are exceptions such as Google Docs and PDFs, which we cannot extract the selected text from. If you are one of these sites, you should see an alert like the one below appear to let you know that it is not compatible. If if is not compatible, you can still use the 'Create A Quiz From Text' feature to generate your quiz. 
 
+<img width="823" alt="Screenshot 2024-05-09 at 6 59 47 PM" src="https://github.com/WiseCactus/cramjam-extension/assets/76268134/5538ad61-8921-4784-8fd8-a093ac1d2350">
+
+If Cramjam does not detect your text and the yellow pop-up does not display on your site, please report this as a bug on our feedbackform.
 ### Q4: How do I create a quiz from a YouTube video?
 **A:** While watching a YouTube video, click the CramJam icon in your browser toolbar, select 'Create a quiz' from the dropdown menu, and choose your preferred settings. The quiz will be generated based on the content of the video.
 
