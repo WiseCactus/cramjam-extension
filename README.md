@@ -89,11 +89,11 @@ A GIF demonstrating how to set up a study duration, with CramJam generating a pl
 **A:** To upgrade, log into your account, navigate to the settings page, and click on the 'Upgrade' button. Follow the instructions to enter your payment information and complete the subscription process.
 
 ### Q4: Can I use CramJam on any website?
-**A:** CramJam works on most text-based web pages. However, there are exceptions such as Google Docs and PDFs, which we cannot extract the selected text from. If you are one of these sites, you should see an alert like the one below appear to let you know that it is not compatible. If if is not compatible, you can still use the 'Create A Quiz From Text' feature to generate your quiz. 
+**A:** CramJam works on almost all text-based web pages, with a few exceptions, such as Google Docs and PDFs. If you are one of these sites, you should see an alert like the one below appear to let you know that it is not compatible. If if is not compatible, you can still use the 'Create A Quiz From Text' feature to generate your quiz. 
 
 <img width="823" alt="Screenshot 2024-05-09 at 6 59 47 PM" src="https://github.com/WiseCactus/cramjam-extension/assets/76268134/5538ad61-8921-4784-8fd8-a093ac1d2350">
 
-If Cramjam does not detect your text and the yellow pop-up does not display on your site, please report this as a bug on our feedback form.
+If Cramjam does not detect your text and the yellow pop-up does not display on your site, and you have tried it after refreshing the page, please report this as a bug on our feedback form.
 ### Q5: How do I create a quiz from a YouTube video?
 **A:** While watching a YouTube video, click the CramJam icon in your browser toolbar, select 'Create a quiz' from the dropdown menu, and choose your preferred settings. The quiz will be generated based on the content of the video.
 
