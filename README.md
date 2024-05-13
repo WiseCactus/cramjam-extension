@@ -16,7 +16,7 @@ To come back to this page whenever you have questions about the extension, click
     - [Text Quiz Creation](#text-quiz-creation)
 3. [Common Questions](#common-questions)
     - [What does the free tier include?](#q1-what-does-the-free-tier-include)
-    - [Why doesn't my extension work?](#q2-why-doesn't-my-extension-work)
+    - [Why doesn't my extension work?](#q2-why-does-my-extension-not-work)
     - [How can I upgrade to an unlimited subscription?](#q3-how-can-i-upgrade-to-an-unlimited-subscription)
     - [Can I use CramJam on any website?](#q4-can-i-use-cramjam-on-any-website)
     - [How do I create a quiz from a YouTube video?](#q5-how-do-i-create-a-quiz-from-a-youtube-video)
@@ -82,7 +82,7 @@ A GIF demonstrating how to set up a study duration, with CramJam generating a pl
 ### Q1: What does the free tier include?
 **A:** The free tier allows you to create up to 12 quizzes. This is a great way to try out the features before deciding whether you might benefit from unlimited access with a subscription.
 
-### Q2: Why doesn't my extension work?
+### Q2: Why does my extension not work?
 **A:** If your just installed the extension, please first try refreshing the page. Otherwise, if there is no banner that indicates that our extension does not work on your site, please make a bug report on the feedback button.
 
 ### Q3: How can I upgrade to an unlimited subscription?
