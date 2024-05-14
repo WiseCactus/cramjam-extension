@@ -74,8 +74,7 @@ Even if that is the case , don't worry -- we've still got you covered!  Just acc
 <img src="https://github.com/WiseCactus/cramjam-extension/assets/76268134/56092f5b-e05d-40d6-8ecc-ea6526d24161" width="750" height="450">
 
 
-### GIF: Setting up a YouTube Study Plan and Marking Progress
-A GIF demonstrating how to set up a study duration, with CramJam generating a plan and the user marking lessons as completed after successful quizzes.
+
 
 ## Common Questions
 
