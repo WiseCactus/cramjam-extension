@@ -73,7 +73,7 @@ Even if that is the case , don't worry -- we've still got you covered!  Just acc
 
 <img src="https://github.com/WiseCactus/cramjam-extension/assets/76268134/56092f5b-e05d-40d6-8ecc-ea6526d24161" width="750" height="450">
 
-Alternatively, you can upload your file to dropbox (yes, it is free), and you will be able to select text.
+Alternatively, you can upload your file to dropbox (yes, it is free), and you will be able to select text. PDFs are ideal for this.
 <img width="467" alt="Screenshot 2024-05-16 at 4 03 08 PM" src="https://github.com/WiseCactus/cramjam-extension/assets/76268134/87eeaa90-fecd-4982-b6b6-c15337b20943">
 
 
@@ -83,8 +83,16 @@ Alternatively, you can upload your file to dropbox (yes, it is free), and you wi
 **A:** The free tier allows you to create up to 12 quizzes. This is a great way to try out the features before deciding whether you might benefit from unlimited access with a subscription.
 
 ### Q2: Why does my extension not work?
-**A:** If your just installed the extension, please first try refreshing the page. Otherwise, if there is no banner that indicates that our extension does not work on your site, please make a bug report on the feedback button.
+**A:**
+For the select tool:
+If your just installed the extension, please first try refreshing the page. Otherwise, if there is no banner that indicates that our extension does not work on your site, please make a bug report on the feedback button.
 
+If there is a yellow banner that indicates our extension cannot detect the text on your page, you can either:
+1) copy and paste the text into the Create a Quiz from Text feature, or:
+2) Upload your file to Dropbox , and the select tool will work from there.
+
+For the youtube tool:
+Please report this as a bug on the feedback button.
 ### Q3: How can I upgrade to an unlimited subscription?
 **A:** To upgrade, log into your account, navigate to the settings page, and click on the 'Upgrade' button. Follow the instructions to enter your payment information and complete the subscription process.
 
