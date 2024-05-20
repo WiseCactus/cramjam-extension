@@ -78,8 +78,6 @@ Even if that is the case , don't worry -- we've still got you covered!  Just acc
 
 <img src="https://github.com/WiseCactus/cramjam-extension/assets/76268134/56092f5b-e05d-40d6-8ecc-ea6526d24161" width="750" height="450">
 
-Alternatively, you can upload your file to dropbox (yes, it is free), and you will be able to select text. PDFs are ideal for this.
-<img width="467" alt="Screenshot 2024-05-16 at 4 03 08 PM" src="https://github.com/WiseCactus/cramjam-extension/assets/76268134/87eeaa90-fecd-4982-b6b6-c15337b20943">
 
 
 ## Common Questions
