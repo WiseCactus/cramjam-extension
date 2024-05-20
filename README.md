@@ -12,6 +12,7 @@ To come back to this page whenever you have questions about the extension, click
     - [Important Points to Note](#important-points-to-note)
 2. [Features of CramJam](#features-of-cramjam)
     - [Browser Quiz Creation](#browser-quiz-creation)
+    - [Quiz on Your Documents](#file-quiz-creation)
     - [YouTube Video Quizzes](#youtube-video-quizzes)
     - [Text Quiz Creation](#text-quiz-creation)
 3. [Common Questions](#common-questions)
@@ -54,7 +55,11 @@ Highlight text on any webpage, right-click, and select "Generate Browser Quiz". 
 
 <img src="https://github.com/WiseCactus/cramjam-extension/assets/76268134/a57daea3-af30-4530-a920-645238bc52a4" width="750" height="450">
 
-### 2. YouTube Video Quizzes
+### 2. File Quiz Creation
+To generate quizzes from any documents that you want to be quizzed on, simply drag and drop your file into 
+[File Viewer](https://products.groupdocs.app/viewer/total)
+, and be on your way.
+### 3. YouTube Video Quizzes
 Easily create a custom quiz from any YouTube video's content by selecting 'Create a quiz' from the dropdown menu. Adjust settings like quiz length and focus to suit your needs.
 
 <img src="https://github.com/WiseCactus/cramjam-extension/assets/76268134/1eb5dd42-b395-41aa-9120-864384fcc692" width="750" height="450">
@@ -63,7 +68,7 @@ And just like that, you're ready to learn!
 
 <img src="https://github.com/WiseCactus/cramjam-extension/assets/76268134/c97d0b51-fc2a-441a-b7f0-9d9adaa55c54" width="750" height="450">
 
-### 3. Text Quiz Creation
+### 4. Text Quiz Creation
 
 Occasionally, some websites employ techniques that prevent our extension from detecting text directly from the page. If you encounter a yellow notification bar at the bottom of your browser while using our site, it indicates that you are on one of these incompatible websites.
 
